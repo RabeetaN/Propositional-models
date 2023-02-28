@@ -7,4 +7,4 @@ Open command line interface on current directory
 
 Type "python3 main.py" and enter*
 
-Enter a set of propositional sentences separated by commas 
+Enter a set of propositional sentences separated by commasfollowing the symtax as instructed
